@@ -1,1 +1,2 @@
-# Activity-1---GameDB
+# Activity-1 - GameDB
+Created a simple website for game description
